@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Tony.I am intereset in everything python, data science and cybersecurity!<br> 👀 I’m currently working on a credit card fraud detection system using machine learning.<br>
+👋 Hi, I’m Tony.I am intereset in everything python🐍, data science📊 , AI🤖 and cybersecurity🕵‍♂️!<br>
+
+<br>
 
 
 ## 🌐 Socials:
