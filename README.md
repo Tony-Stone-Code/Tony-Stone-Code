@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Tony.I am intereset in everything python🐍, data science📊 , AI🤖 and cybersecurity🕵‍♂️!<br>
+👋 Hi, I’m Tony. I am intereset in everything python🐍, data science📊 , AI🤖 and cybersecurity🕵‍♂️!<br>
 
 <br>
 
