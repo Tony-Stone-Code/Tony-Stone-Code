@@ -15,11 +15,12 @@
 ```python
 class TonyStone:
     def __init__(self):
-        self.name = "Anthony Opoku Acheampong"
+        self.name = "Anthony Opoku-Acheampong"
         self.alias = "Tony"
         self.role = "Software Developer"
         self.interests = ["Python", "Data Science", "AI/ML", "Cybersecurity"]
         self.languages_spoken = ["English"]
+        
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
