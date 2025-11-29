@@ -161,7 +161,6 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
 ---
 
 <div align="center">
