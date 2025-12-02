@@ -163,11 +163,15 @@ me.say_hi()
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tony-Stone-Code&repo=Tony-Stone-Code&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Tony-Stone-Code/Tony-Stone-Code)
+> 🚀 **Coming Soon!** I'm actively working on exciting projects in Data Science, AI/ML, and Web Development.
+> 
+> Stay tuned or check out my [repositories](https://github.com/Tony-Stone-Code?tab=repositories) for updates!
+
+<!-- Uncomment and update when you have projects to showcase
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tony-Stone-Code&repo=YOUR-PROJECT-REPO&theme=react&hide_border=true&bg_color=0d1117)](https://github.com/Tony-Stone-Code/YOUR-PROJECT-REPO)
+-->
 
 </div>
-
-> 💡 **Note:** Check out my [repositories](https://github.com/Tony-Stone-Code?tab=repositories) for more exciting projects!
 
 ---
 
@@ -202,9 +206,19 @@ me.say_hi()
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Tony-Stone-Code/Tony-Stone-Code/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tony-Stone-Code/Tony-Stone-Code/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tony-Stone-Code/Tony-Stone-Code/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tony-Stone-Code/Tony-Stone-Code/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+<!-- 
+To enable the snake animation, create a GitHub Action workflow:
+1. Create .github/workflows/snake.yml with the snake-game action
+2. The action will generate the SVG and push to the output branch
+-->
 
 ---
 
