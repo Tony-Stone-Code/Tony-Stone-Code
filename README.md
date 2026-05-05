@@ -19,6 +19,23 @@
 
 ---
 
+### 👋 Welcome
+
+Thanks for stopping by—I'm Tony, a Python-focused developer building data-driven and secure systems. Below you can explore my background, projects, tech stack, and ways to connect.
+
+### 🧭 Quick Navigation
+
+- [About Me](#about-me)
+- [Featured Projects](#featured-projects)
+- [Connect With Me](#connect-with-me)
+- [Tech Stack](#tech-stack)
+- [GitHub Statistics](#github-statistics)
+- [Activity Graph](#activity-graph)
+- [Contribution Graph](#contribution-graph)
+- [GitHub Trophies](#github-trophies)
+- [Latest Blog Posts](#latest-blog-posts)
+- [Support My Work](#support-my-work)
+
 ## 🚀 About Me
 
 ```python
@@ -53,6 +70,15 @@ me.say_hi()
 - 🎓 Always exploring new technologies and frameworks
 - 🔐 Passionate about **Cybersecurity** best practices
 - ⚡ Fun fact: I turn coffee into code! ☕
+
+### 🤝 Collaboration Interests
+
+- ✅ Python APIs, automation, and data-driven apps
+- 🤖 ML/AI experiments, evaluation, and MLOps foundations
+- 🔐 Security-aware development and tooling
+- 🌐 Open-source contributions and documentation
+
+If you'd like to collaborate, feel free to reach out on [LinkedIn](https://linkedin.com/in/Anthony-Opoku-Acheampong).
 
 <br clear="right"/>
 
@@ -261,4 +287,3 @@ If you find my work helpful or inspiring, consider supporting me! Your support h
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-
