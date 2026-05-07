@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Data+Science+%7C+AI%2FML+%7C+Cybersecurity+Focused;Building+intelligent%2C+secure%2C+data-driven+software;Open+to+collaboration+on+impactful+projects)](https://git.io/typing-svg)
 
-### 🚀 Software Developer • Data & AI Enthusiast • Security-Minded Builder
+### 🚀 Software Developer | Data & AI Enthusiast | Security-Minded Builder
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tony-Stone-Code&style=for-the-badge&color=00d9ff&labelColor=111827)
 ![Followers](https://img.shields.io/github/followers/Tony-Stone-Code?style=for-the-badge&color=00d9ff&labelColor=111827)
@@ -65,7 +65,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Tools, Cloud, DevOps & Databases
