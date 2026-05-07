@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-- I'm **Anthony (Tony) Opoku-Acheampong**, a Python-focused developer passionate about solving real problems with data and intelligent systems.
+- I'm **Anthony Opoku-Acheampong  - (Tony)**, a Python-focused developer passionate about solving real problems with data and intelligent systems.
 - **Current focus:** AI/ML, data-driven applications, and security-aware software development.
 - I enjoy building projects that combine **analytics + automation + practical product thinking**.
 - I’m open to collaborations in **Python APIs, AI tools, data analytics, and open-source contributions**.
