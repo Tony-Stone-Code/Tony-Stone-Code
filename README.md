@@ -111,6 +111,16 @@
 
 ---
 
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 > Selected highlights aligned with my profile focus in Data Science, AI/ML, automation, and practical product development.
