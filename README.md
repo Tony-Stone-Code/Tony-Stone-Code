@@ -125,6 +125,7 @@
 
 > Selected highlights aligned with my profile focus in Data Science, AI/ML, automation, and practical product development.
 
+
 | Project | Focus | Stack | Impact |
 |---|---|---|---|
 | [💳 credit-card-fraud-detection-model](https://github.com/Tony-Stone-Code/credit-card-fraud-detection-model) | Fraud detection & predictive modeling | Python, ML | Demonstrates practical ML for risk/anomaly detection |
