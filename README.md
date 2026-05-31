@@ -11,7 +11,6 @@
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=00d9ff&labelColor=111827&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Tony-Stone-Code)
 
 </div>
-
 ---
 
 ## 🔗 Connect
