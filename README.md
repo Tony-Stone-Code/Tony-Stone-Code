@@ -25,7 +25,7 @@
 
 </div>
 
-> 🎨 **Profile banner suggestion:** Use a dark, minimal banner featuring `Python • Data Science • AI/ML • Cybersecurity` with subtle neon blue accents to match this README theme.
+> `Python • Data Science • AI/ML • Cybersecurity`
 
 ---
 
