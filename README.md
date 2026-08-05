@@ -25,7 +25,7 @@
 
 </div>
 
-> `Python • Data Science • AI/ML • Cybersecurity`
+> `Python • Data Science • AI/ML • Cybersecurity • Web Development`
 
 ---
 
