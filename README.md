@@ -17,11 +17,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anthony-Opoku-Acheampong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-opoku-acheampong)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tonystonecode)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27934676)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Opoku_A_Anthony)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCofm_0lAA9f2cef--H23iZA)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UCofm_0lAA9f2cef--H23iZA)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-- I'm **Anthony Opoku-Acheampong  - (Tony)**, a Python-focused developer passionate about solving real problems with data and intelligent systems.
+- I'm **Anthony Opoku-Acheampong (Tony)**, a Python-focused developer passionate about solving real problems with data and intelligent systems.
 - **Current focus:** AI/ML, data-driven applications, and security-aware software development.
 - I enjoy building projects that combine **analytics + automation + practical product thinking**.
 - I’m open to collaborations in **Python APIs, AI tools, data analytics, and open-source contributions**.
@@ -151,7 +151,7 @@
 - **2023:** Established GitHub profile foundation and public project presence.
 - **2024:** Built and published multiple data/AI projects (fraud detection, prediction, analytics).
 - **2025:** Expanded into chatbot, analytics, and portfolio-focused product builds.
-- **2026:** Delivered ML-based cybersecurity final-year project (NIDS).
+- **2026:** Delivered an ML-based cybersecurity final-year project (NIDS).
 
 <details>
 <summary><b>🎖️ Certifications, Awards, Hackathons, Leadership</b></summary>
@@ -171,7 +171,7 @@ I’m open to:
 - Open-source collaborations
 - Freelance Python automation and analytics projects
 
-If you’re recruiting or collaborating, feel free to connect on [LinkedIn](https://linkedin.com/in/Anthony-Opoku-Acheampong).
+If you’re recruiting or collaborating, feel free to connect on [LinkedIn](https://www.linkedin.com/in/anthony-opoku-acheampong).
 
 ---
 
