@@ -169,7 +169,7 @@ I’m open to:
 - Internship / junior software engineering opportunities
 - Data science and AI-focused roles
 - Open-source collaborations
-- Freelance Python automation and analytics projects
+- Freelance Python automation and analytics projects.
 
 If you’re recruiting or collaborating, feel free to connect on [LinkedIn](https://linkedin.com/in/Anthony-Opoku-Acheampong).
 
